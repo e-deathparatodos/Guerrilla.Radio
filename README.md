@@ -1,5 +1,11 @@
 ## Hurt4r un libro, es un acto de t3rr0rism0 p0etic0.,
 
+<audio autoplay="autoplay" controls="controls">  
+   <source src="http://giss.tv:8001/guerrillaradio.ogg" />  
+   <p>Your browser does not support the audio element.</p>   
+</audio> 
+
+
 ¿De qué sirve la propiedad?. ¿A quién le sirve la propiedad?.
 
 Linux Kernel Development, 1991-2015
