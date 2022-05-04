@@ -1,7 +1,7 @@
 http://giss.tv:8001/guerrillaradio.ogg
 
 
-<meta http-equiv="Refresh" content="0; url=http://giss.tv:8001/guerrillaradio.ogg" />
+
 
 
 
