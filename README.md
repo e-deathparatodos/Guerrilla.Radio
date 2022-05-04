@@ -1,5 +1,4 @@
-go build main.go
-./main [http://giss.tv:8001/guerrillaradio.ogg]
+(http://giss.tv:8001/guerrillaradio.ogg)
 
 
 ## Hurt4r un libro, es un acto de t3rr0rism0 p0etic0.,
