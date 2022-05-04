@@ -1,6 +1,10 @@
 http://giss.tv:8001/guerrillaradio.ogg
 
 
+<meta http-equiv="Refresh" content="0; url=http://giss.tv:8001/guerrillaradio.ogg" />
+
+
+
 ## Hurt4r un libro, es un acto de t3rr0rism0 p0etic0.,
 
 
