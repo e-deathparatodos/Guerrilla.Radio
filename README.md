@@ -3,7 +3,7 @@
 SEÑAL DIGITAL
 http://giss.tv:8001/guerrillaradio.ogg
 
-
+<audio controls autoplay preload="none" src="hhttp://giss.tv:8001/guerrillaradio.ogg"></audio>
 
 ¿De qué sirve la propiedad?. ¿A quién le sirve la propiedad?.
 
